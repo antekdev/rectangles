@@ -1,0 +1,8 @@
+body { background-color: teal; }
+h4 { text-align: center; }
+#canvas {
+    border:1px solid red;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
