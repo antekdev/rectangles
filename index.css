@@ -1,7 +1,7 @@
-body { background-color: teal; }
-h4 { text-align: center; }
+body { background-color: dimgray; font-family: "Consolas" }
+h4 { text-align: center; color: wheat; }
 #canvas {
-    border:1px solid red;
+    border:1px solid wheat;
     display: block;
     margin-left: auto;
     margin-right: auto;
